@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 2801-BD3B
+
+ Directory of C:\Users\BHAVANI\OneDrive\Desktop\myproj
+
+05/15/2021  10:26 AM    <DIR>          .
+05/15/2021  10:26 AM    <DIR>          ..
+05/15/2021  10:26 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  171,157,413,888 bytes free
